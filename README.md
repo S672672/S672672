@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s672672" alt="s672672" /></a> </p>
 
+- 🌱 I’m currently learning **Front-End Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/S672672](https://github.com/S672672)
+
+- 📫 How to reach me **smithbhattarai12@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smith bhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smith bhattarai" height="30" width="40" /></a>
