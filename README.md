@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s672672&label=Profile%20views&color=0e75b6&style=flat" alt="s672672" /> </p>
 
-- 🌱 I’m currently learning **Front-End web Development**
+- 🌱 I’m currently learning **Front-End Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/S672672](https://github.com/S672672)
 
