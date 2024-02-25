@@ -1,4 +1,4 @@
-<h1 align="center">Hello Hello👋, I'm Smith Bhattarai</h1>
+<h1 align="center">Hello 👋, I'm Smith Bhattarai</h1>
 <h3 align="center">A passionate learner </h3>
 <h3 align="center">The more you learn,the more you go ahead </h3>
 
