@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Front-End Web Development**
 - Learning doesn't mean "you are perfect",the more you learn,the more you find out you are imperfect.
+- just proud on my passion
 
 - 👨‍💻 All of my projects are available at [https://github.com/S672672](https://github.com/S672672)
 
