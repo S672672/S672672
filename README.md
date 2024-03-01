@@ -1,10 +1,10 @@
-<h1 align="center">Hello 👋, I'm Smith Bhattarai</h1>
+<h1 align="center">👋 Hello 👋, I'm Smith Bhattarai</h1>
 <h3 align="center">A passionate learner but still thinking why?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s672672&label=Profile%20views&color=0e75b6&style=flat" alt="s672672" /> </p>
 
 - 🌱 I’m currently learning **Front-End Web Development**
-- Learning doesn't mean,you are perfect,the more you learn,the more you find out you are imperfect.
+- Learning doesn't mean "you are perfect",the more you learn,the more you find out you are imperfect.
 
 - 👨‍💻 All of my projects are available at [https://github.com/S672672](https://github.com/S672672)
 
