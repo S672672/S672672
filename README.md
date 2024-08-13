@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner but still thinking why?</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s672672&label=Profile%20views&color=0e75b6&style=flat" alt="s672672" /> </p>
 
-- 🌱 I’m currently learning **Front-End Web Development**
+- 🌱 I’m currently learning **Full stack Development**
 - 👨‍💻 All of my projects are available at [https://github.com/S672672](https://github.com/S672672)
 
 - 📫 How to reach me **smithbhattarai12@gmail.com**
