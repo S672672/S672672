@@ -1,5 +1,5 @@
 <h1 align="center"👋 , I am Smith Bhattarai</h1>
-<h3 align="center">A passionate learner but still thinking why?</h3>
+<h3 align="center">A passionate learner but still thinking why??</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s672672&label=Profile%20views&color=0e75b6&style=flat" alt="s672672" /> </p>
 
 - 🌱 I’m currently learning **Full stack Development**
